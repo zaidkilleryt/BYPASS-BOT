@@ -1,7 +1,7 @@
 import telegram.ext
 import os
 
-with open('token.txt', 'r') as f:
+with open('token.txt', '6399689099:AAH9e3YKchoXcbVrjJ8KV4CklG0FPKmo_UY') as f:
  TOKEN = f.read()
 
 def start(update, context):
